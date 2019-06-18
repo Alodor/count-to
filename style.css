@@ -1,0 +1,26 @@
+body {
+    background-color: #fafafa;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.section-count {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.fas {
+    color: #3498db;
+    font-size: 2.5em;
+}
+
+.number-counter {
+    font-size: 3em;
+}
+
+.description {
+    font-weight: lighter;
+}
